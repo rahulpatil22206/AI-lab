@@ -1,0 +1,1 @@
+Given (KB): A=>B and C=>D Query:A vC => B v D. Use resolution Algorithm to solve the following problem.
